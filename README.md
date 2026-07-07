@@ -25,12 +25,4 @@
 </p>
 
 
-
-📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayyaz-fx&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayyaz-fx" height="165" />
-</p>
-
 <p align="center"><i>Building in public as I go from learner to AI Engineer 🚀</i></p>
