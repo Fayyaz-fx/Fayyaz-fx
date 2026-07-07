@@ -13,8 +13,6 @@
 💬 Ask me about: prompt engineering, LLM app workflows, or building with AI-first tools
 📫 Reach me: [add your email or LinkedIn link here]
 
-
-
 🛠️ Tech & Tools
 
 <p align="left">
@@ -25,14 +23,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
-(swap/add badges to match what you actually use — e.g. specific agent frameworks, vector DBs, etc.)
 
-
-🚀 Featured / Learning Projects
-
-ProjectDescription[Project Name]One-line description of what it does and what you learned building it[Project Name]One-line description — e.g. "A simple agent that automates X using tool-calling"[Project Name]One-line description
-
-(Replace these once you pin your top repos — see Step 5 below)
 
 
 📊 GitHub Stats
