@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fayyaz 👋</h1>
 <h3 align="center">AI Engineer in the making | Agentic AI · Vibe Coding · LLM Systems</h3>
 <p align="center">
-  📍 Multan, Pakistan &nbsp;·&nbsp; 🌱 Currently deep in Agentic AI & AI Engineering training
+  📍 Dubai, United Arab Emirates &nbsp;·&nbsp; 🌱 Currently deep in Agentic AI & AI Engineering training
 </p>
 
 🧠 About Me
